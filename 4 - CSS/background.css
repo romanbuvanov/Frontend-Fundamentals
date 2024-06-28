@@ -1,0 +1,28 @@
+.color-example {
+  background-color: aliceblue;
+  color: red;
+}
+
+.background-example {
+  background-color: #ff000f;
+}
+
+.background-position-example {
+  /* background-image: url(background.jpg); */
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fWaoLfFtT-_KF5jPJ4sehcBZYjrh-fbkXw&s);
+  /* background-size: cover; */
+  background-size: contain;
+}
+
+.opacity-example {
+  background-color: rgba(225, 0, 0, 0.1);
+}
+
+.image-example {
+  display: block;
+  margin: 0 auto;
+}
+.image-sizing-example {
+  width: 400px;
+  height: 350px;
+}

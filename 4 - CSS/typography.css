@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(37, 37, 37);
+  color: #fff;
+}
+
+.font-family-size {
+  font-family: "Courier New", Courier, monospace;
+}
+.font-family-size {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.underline {
+  text-decoration: underline;
+}
+.center-align {
+  text-align: center;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.line-height {
+  line-height: 3.5;
+}
+
+.letter-spacing {
+  letter-spacing: 5px;
+}
+
+.text-shadow {
+  font-size: 3cqh;
+  text-shadow: 2px 5px 10px blue, -2px -2px 7px green, -4px -4px 10px yellow,
+    4px 4px 12px purple, -6px -6px 12px orangered;
+}
